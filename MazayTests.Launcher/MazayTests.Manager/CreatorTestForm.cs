@@ -15,7 +15,7 @@ namespace MazayTests.Manager
     {
         TestGenerator test = new();
         Question question = new();
-       
+       //для пулреквеста
 
         public CreatorTestForm()
         {
